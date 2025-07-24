@@ -1,3 +1,3 @@
 # MyProject
-مشاريع
-https://github.com/Mohammed-Saif-Abdo-Musaed-Qaid/MyProject.git
+mohammed the project 
+## project notes
